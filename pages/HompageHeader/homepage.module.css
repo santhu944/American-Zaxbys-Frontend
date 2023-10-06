@@ -1,0 +1,36 @@
+
+.HomePageNavBar{
+    
+}
+
+
+.smallFont {
+    
+    
+  }
+.menuTitle {
+  color: rgb(68, 67, 71);
+  text-wrap: wrap;
+  font-size: 24px; 
+    text-align: left;
+   
+}
+
+
+.Logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333; 
+    margin: 0; 
+    font-family: none;
+    margin-left: 20px;
+  }
+ 
+.custom-container {
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: monospace;
+  }
+  
+
+  

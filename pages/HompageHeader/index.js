@@ -45,7 +45,7 @@ function HomePageHeader() {
       <Container>
         <div className="d-flex justify-content-between align-items-center w-100">
           <div className="d-flex align-items-center">
-            <img src='https://res.cloudinary.com/dlyas2oxp/image/upload/v1694077483/logo_main_89b07b5c_2bac9521bf.svg' alt='Zaxbys Logo' className={`${styles.Logo} m-0`} />
+            <h1  className={`${styles.Logo} m-0`} >LOGO</h1>
           </div>
           <div className={`text-center flex-grow-1 ${styles['custom-container']}`}>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
